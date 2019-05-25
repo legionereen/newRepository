@@ -1,2 +1,0 @@
-# newRepository
-ApplicationForNetwork
