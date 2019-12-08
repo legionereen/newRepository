@@ -1,2 +1,3 @@
-devA - created File
-devB - updated the file abc
+devA - created File 
+devB - updated the file abc 
+devA - updated the File with a lot of strings  
